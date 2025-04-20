@@ -8,7 +8,7 @@ this.addEventListener('install', (event) => {
                 '/index.html',
                 '/ws',
                 '/users',
-                //'/index.html',
+                //'/index.html',//
                 //'/index.html',
                 //'/index.html',
                 '/'
